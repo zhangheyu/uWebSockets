@@ -1,9 +1,9 @@
-**Note!** Unreleased **development branch**. Track progress & issues [here](https://github.com/uNetworking/v0.15/issues). Checkout [v0.14](https://github.com/uNetworking/uWebSockets/tree/v0.14) for something stable.
+**Note!** Unreleased **development branch**. Track progress & issues [here](https://github.com/uNetworking/issues/issues). Checkout [v0.14](https://github.com/uNetworking/uWebSockets/tree/v0.14) for something stable.
 
 <div align="center">
 <img src="misc/logo.png" />
-
-*µWS ("[micro](https://en.wikipedia.org/wiki/Micro-)WS") is simple and efficient*<sup>[[1]](benchmarks)</sup> *messaging for the modern web.*
+    
+*µWS ("[micro](https://en.wikipedia.org/wiki/Micro-)WS") is simple, secure & standards compliant I/O for intense*<sup>[[1]](benchmarks)</sup> *workloads and/or small devices.*
 
 • [Fancy pants details, user manual and FAQ](misc/READMORE.md)
 
